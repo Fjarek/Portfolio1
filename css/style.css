@@ -87,31 +87,24 @@ span{
 
 /* SECTION ABOUT */
 
-#about{
-    position: relative;
-}
-
-
 
 #about div{
     display: inline-block;
     width: 49%;
-    height: 400px;
+    
     
 }
 
-#about  img{
-    position: abslute;
+#about .image{
+    text-align: center;
+}
+#about .image img{
+    
     height: 300px;
     width: 250px;
-    display: block;
-    top: 50%;
-    margin: auto;
+    /* display: block; */
+
        
-}
-#about .content{
-    display: block;
-    
 }
 
 
